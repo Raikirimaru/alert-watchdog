@@ -1,6 +1,6 @@
 {
   "name": "alert-watchdog",
-  "version": "1.2.14",
+  "version": "1.2.15",
   "description": "Module de Surveillance d'Événements et de Gestion des Alertes",
   "main": "app.js",
   "scripts": {
